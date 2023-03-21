@@ -89,7 +89,7 @@
 }
 
 .answer.correct{
-  animation: correct 3s ease forwards;
+  animation: correct 2s ease forwards;
 }
 
 @keyframes correct {
@@ -110,7 +110,7 @@
 }
 
 .answer.wrong{
-  animation: wrong 3s ease forwards;
+  animation: wrong 2s ease forwards;
 }
 
 @keyframes wrong {
@@ -165,4 +165,51 @@
 .moneyListItemAmount{
   font-size: 25px;
   font-weight: 300;
+}
+
+.endText{
+  margin: auto;
+  font-size: 50px;
+}
+
+.start{
+  width: 400px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  /* justify-content: space-around; */
+}
+
+.startInput{
+  margin-top: 30px;
+  width: 100%;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 18px;
+  /* padding: 5px; */
+}
+
+.startInput:focus{
+  outline: none;
+}
+
+.startButton{
+  margin-top: 10px;
+  width: 100%;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.startButton:hover{
+  background-color: green;
+  color: white;
+  border: green;
 }
