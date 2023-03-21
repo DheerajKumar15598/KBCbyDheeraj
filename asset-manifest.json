@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KBCbyDheeraj/static/css/main.12aa5755.css",
+    "main.js": "/KBCbyDheeraj/static/js/main.59e8dfbb.js",
+    "static/js/845.f7e20457.chunk.js": "/KBCbyDheeraj/static/js/845.f7e20457.chunk.js",
+    "static/media/src_sounds_wait.mp3": "/KBCbyDheeraj/static/media/src_sounds_wait.30e329da76ae665702f7.mp3",
+    "static/media/KBC_Background.jpg": "/KBCbyDheeraj/static/media/KBC_Background.c137ccd722d64133b4df.jpg",
+    "static/media/src_sounds_play.mp3": "/KBCbyDheeraj/static/media/src_sounds_play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/src_sounds_correct.mp3": "/KBCbyDheeraj/static/media/src_sounds_correct.160572d72c858155072e.mp3",
+    "static/media/src_sounds_wrong.mp3": "/KBCbyDheeraj/static/media/src_sounds_wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/KBCbyDheeraj/index.html",
+    "main.12aa5755.css.map": "/KBCbyDheeraj/static/css/main.12aa5755.css.map",
+    "main.59e8dfbb.js.map": "/KBCbyDheeraj/static/js/main.59e8dfbb.js.map",
+    "845.f7e20457.chunk.js.map": "/KBCbyDheeraj/static/js/845.f7e20457.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12aa5755.css",
+    "static/js/main.59e8dfbb.js"
+  ]
+}
